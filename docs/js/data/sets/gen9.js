@@ -12060,7 +12060,7 @@ var SETDEX_SV = {
       "item": "Luminous Moss",
       "index": 574
     },
-    "Fisherman Elliot & Fisherman Ned": {
+    "Fisherman Elliot & Fisherman Ned #1": {
       "level": 43,
       "ability": "Water Absorb",
       "status": "Healthy",
