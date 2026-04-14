@@ -8477,7 +8477,7 @@ var SETDEX_SV = {
     },
     "Pokéfan Bobertclef": {
       "level": 95,
-      "ability": "Multitype",
+      "ability": "Huge Power",
       "status": "Healthy",
       "moves": [
         "Belly Drum",
@@ -25581,7 +25581,7 @@ var SETDEX_SV = {
     },
     "Pyre Team Aqua Grunt #4": {
       "level": 80,
-      "ability": "Water Absorb",
+      "ability": "Levitate",
       "status": "Healthy",
       "moves": [
         "Gyro Ball",

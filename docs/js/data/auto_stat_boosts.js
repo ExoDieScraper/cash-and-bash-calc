@@ -27,6 +27,11 @@ var AUTO_STAT_BOOST_RULES = [
 		trainer: "Sky Pillar Rayquaza",
 		boosts: { hp: 1, at: 1, df: 1, sa: 1, sd: 1, sp: 1 },
 	},
+	{
+		species: "Glalie",
+		trainer: "Ex Elite Four Glacia 2",
+		boosts: { hp: 1, at: 1, df: 1, sa: 1, sd: 1, sp: 1 },
+	},
 ];
 
 function applyAutoStatBoosts(pokeObj, fullSetName) {

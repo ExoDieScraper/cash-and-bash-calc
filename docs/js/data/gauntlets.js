@@ -22,6 +22,7 @@ var GAUNTLET_LIST = [
 	{ name: "B2B2B", trainers: ["Team Rocket Grunt #1", "Team Rocket Grunt #2", "Team Rocket Grunt #3"] },
 	{ name: "6v8 Doubles", trainers: ["Trainer Maxie", "Trainer Archie"] },
 	{ name: "B2B", trainers: ["Teacher Anabel", "Frontier Head Noland"] },
+	{ name: "B2B", trainers: ["Pokéfan Isabel", "Pokéfan Kaleb"] },
 ];
 
 function trainerNamesMatch(gauntletName, setNameTrainer) {
