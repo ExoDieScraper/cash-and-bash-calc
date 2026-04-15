@@ -12056,7 +12056,7 @@ var SETDEX_SV = {
         "Volt Switch",
         "Ice Beam"
       ],
-      "nature": "Timid",
+      "nature": "Modest",
       "item": "Luminous Moss",
       "index": 574
     },
